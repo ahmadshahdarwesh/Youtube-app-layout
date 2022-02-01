@@ -1,0 +1,10 @@
+.sidebar {
+  grid-area: left;
+  border: 1px red solid;
+  width: 10rem;
+}
+.sidebar ul {
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+}
