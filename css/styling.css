@@ -1,0 +1,17 @@
+@import url(var.css);
+@import url(top\ menu.css);
+@import url(side-bar.css);
+@import url(top\ pic.css);
+@import url(profile.css);
+@import url(menue-2.css);
+@import url(intro.css);
+@import url(main\ box.css);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  height: fit-content;
+}
