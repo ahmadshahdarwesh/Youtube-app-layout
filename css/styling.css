@@ -14,8 +14,8 @@
 .main-container {
   display: grid;
   /* border: 1px solid black; */
-  grid-template-columns: 13vw 3vw 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 6vh 30vh 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 13vw 3vw 13vw 1fr 1fr 1fr 1fr;
+  grid-template-rows: 6vh 30vh 20vh 1fr 1fr 1fr 1fr;
 
   /* width: 100vw;
 
@@ -23,7 +23,7 @@
   grid-template-areas:
     "top top top top top top top "
     "left top-pic top-pic top-pic top-pic top-pic top-pic     "
-    "left            .  .    .   .   .   .               "
+    "left profile profile profile profile profile profile     "
     "left                .  .    .   .   .   .           "
     "left                .  .    .   .   .   .           "
     "left   .  .    .   .   .   .                        "
