@@ -1,5 +1,10 @@
 .main-box {
   grid-area: main-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20rem;
+
   /* border: 1px solid blue; */
 }
 .box1 {
