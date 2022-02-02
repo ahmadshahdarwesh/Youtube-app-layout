@@ -1,12 +1,23 @@
-.official {
+.official-con {
   grid-area: intro;
-  display: flex;
+  /* display: flex; */
   margin-left: 8rem;
+}
+.official {
+  display: flex;
+  /* border: 1px red solid; */
+}
+.official-con > hr {
+  width: 50vw;
+  margin-top: 10px;
 }
 .intro-text {
   display: flex;
-  width: 400px;
+
+  width: 600px;
+  /* height: 190px; */
   flex-direction: column;
-  flex-wrap: wrap;
+
   margin-left: 2rem;
+  /* border: 1px solid blueviolet; */
 }
