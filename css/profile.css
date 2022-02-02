@@ -14,5 +14,16 @@
   align-items: center;
   justify-content: space-between;
   width: 15rem;
+  margin-left: 8rem;
   border: 1px solid blueviolet;
+}
+.profile-menu {
+  grid-area: profile-menu;
+  border: chocolate 1px solid;
+}
+.profile-menu ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-around;
 }
