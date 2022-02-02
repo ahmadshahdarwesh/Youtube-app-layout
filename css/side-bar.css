@@ -1,10 +1,20 @@
 .sidebar {
   grid-area: left;
-  border: 1px red solid;
+  /* border: 1px red solid; */
   /* width: 10rem; */
 }
 .sidebar ul {
   display: flex;
   flex-direction: column;
   line-height: 40px;
+}
+.sidebar > ul > li > i {
+  margin-right: 10px;
+}
+.signin-sidebar {
+  border: 1px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 5rem;
 }

@@ -3,17 +3,43 @@ header {
   justify-content: space-between;
   grid-area: top;
   align-items: center;
-  border: 1px red solid;
+  /* border: 1px red solid; */
   /* width: 95vw;
   margin-right: 25px; */
 }
-
 .y-logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* border: blueviolet 1px solid; */
+  width: 140px;
+  /* height: 100px; */
+}
+.y-logo img {
   width: 80px;
   height: 80px;
 }
+
+.searchbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+.searchbar input {
+  width: 40rem;
+  height: 2rem;
+}
+.dot-menu {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* border: 1px red solid; */
+  width: 10rem;
+}
 .signin {
   display: flex;
+  align-items: center;
   border: 1px blue solid;
   color: blue;
   padding: 10px;

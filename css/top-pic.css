@@ -1,17 +1,28 @@
 .top-pic {
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   grid-area: top-pic;
   display: flex;
   align-items: center;
+  position: relative;
   /* background-image: url(../images/images6.jpeg);
   background-size: cover;
   background-position: 1px 1px; */
 }
 .top-pic img {
-  width: 85vw;
-  height: 25vh;
+  width: 95vw;
+  height: 30vh;
   /* margin-left: 150px; */
 }
-.top-pic :nth-child(2) {
-  border: 1px solid greenyellow;
+.toppic-icons {
+  /* border: 1px solid greenyellow; */
+  position: absolute;
+  background-color: black;
+  opacity: 0.5;
+  padding: 10px;
+  bottom: 3rem;
+  right: 5rem;
+}
+.toppic-icons i {
+  margin-right: 1rem;
+  color: aliceblue;
 }
