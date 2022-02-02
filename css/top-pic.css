@@ -1,0 +1,11 @@
+.top-pic {
+  border: 2px solid blue;
+  grid-area: top-pic;
+  display: flex;
+  align-items: center;
+}
+.top-pic img {
+  width: 85vw;
+  height: 25vh;
+  margin-left: 150px;
+}
