@@ -15,7 +15,7 @@
   display: grid;
   /* border: 1px solid black; */
   grid-template-columns: 13vw 13vw 13vw 5vw 1fr 1fr 1fr;
-  grid-template-rows: 6vh 30vh 10vh 7vh 12vh 1fr 1fr;
+  grid-template-rows: 6vh 30vh 10vh 7vh 16vh 1fr 1fr;
 
   /* width: 100vw;
 
@@ -26,6 +26,6 @@
     "left profile profile profile profile profile profile     "
     "left  profile-menu profile-menu profile-menu profile-menu profile-menu profile-menu  "
     "left  intro  intro    intro   intro   intro   intro      "
-    "left   .  .    .   .   .   .                        "
+    "left  main-box  .    .   .   .   .                        "
     "left        .  .    .   .   .   .                   ";
 }

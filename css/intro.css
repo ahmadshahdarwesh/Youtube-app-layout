@@ -21,3 +21,11 @@
   margin-left: 2rem;
   /* border: 1px solid blueviolet; */
 }
+.uploads {
+  display: flex;
+  border: 1px solid red;
+  width: 15rem;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 1rem;
+}
