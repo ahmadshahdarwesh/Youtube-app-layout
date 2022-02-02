@@ -9,6 +9,13 @@
 .profile > div > img {
   border-radius: 50%;
 }
+.sub > input {
+  background-color: crimson;
+  color: aliceblue;
+  width: 10rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
 .profile-pic {
   display: flex;
   align-items: center;
@@ -25,5 +32,10 @@
   display: flex;
   list-style: none;
   align-items: center;
+  border: chocolate 1px solid;
+  width: 40rem;
   justify-content: space-around;
+  margin-left: 8rem;
+  font-size: 20px;
+  color: gray;
 }
