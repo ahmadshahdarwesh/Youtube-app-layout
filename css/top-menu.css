@@ -4,8 +4,8 @@ header {
   grid-area: top;
   align-items: center;
   border: 1px red solid;
-  width: 95vw;
-  margin-right: 25px;
+  /* width: 95vw;
+  margin-right: 25px; */
 }
 
 .y-logo {

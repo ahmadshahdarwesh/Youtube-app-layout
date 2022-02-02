@@ -1,7 +1,7 @@
 .sidebar {
   grid-area: left;
   border: 1px red solid;
-  width: 10rem;
+  /* width: 10rem; */
 }
 .sidebar ul {
   display: flex;
