@@ -1,0 +1,12 @@
+.official {
+  grid-area: intro;
+  display: flex;
+  margin-left: 8rem;
+}
+.intro-text {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-left: 2rem;
+}
