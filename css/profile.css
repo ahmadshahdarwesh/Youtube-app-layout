@@ -1,11 +1,18 @@
 .profile {
-  /* grid-area: profile; */
-  display: grid;
+  grid-area: profile;
 
   border: 1px solid greenyellow;
-  /* display: flex;
-  align-items: center; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .profile > div > img {
   border-radius: 50%;
+}
+.profile-pic {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 15rem;
+  border: 1px solid blueviolet;
 }
