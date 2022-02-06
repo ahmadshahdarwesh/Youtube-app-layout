@@ -12,8 +12,9 @@
 .sub > input {
   background-color: crimson;
   color: aliceblue;
+  font-size: larger;
   width: 10rem;
-  height: 2rem;
+  height: 3rem;
   margin-right: 2rem;
 }
 .profile-pic {

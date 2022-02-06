@@ -1,5 +1,6 @@
 .main-box {
   grid-area: main-box;
+  background-color: aliceblue;
   display: flex;
   justify-content: left;
   /* align-items: center; */
@@ -22,7 +23,7 @@
   flex-direction: column;
   margin: 5px;
 
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 /* .box1 > img {
   width: 10rem;

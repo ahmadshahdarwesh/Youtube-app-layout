@@ -1,5 +1,7 @@
 .sidebar {
   grid-area: left;
+  padding: 4px;
+  background-color: aliceblue;
   /* border: 1px red solid; */
   /* width: 10rem; */
 }

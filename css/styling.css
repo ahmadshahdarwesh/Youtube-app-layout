@@ -17,6 +17,7 @@
   /* border: 1px solid black; */
   grid-template-columns: 13vw 13vw 13vw 5vw 1fr 1fr 1fr;
   grid-template-rows: 6vh 30vh 10vh 7vh 30vh 1fr 1fr;
+  grid-gap: 5px;
 
   /* width: 100vw;
 
