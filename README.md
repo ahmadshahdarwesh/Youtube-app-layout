@@ -17,7 +17,7 @@ _This project can be used to see how grid and flex box concepts can be used to d
 ##### Developed With
 
 - [x] _HTML5_
-- [ ] _CSS3_
+- [x] _CSS3_
 
 ---
 
