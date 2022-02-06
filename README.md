@@ -4,64 +4,35 @@
 
 ![Screenshot from Project](./images/screen1.png)
 
-#### Navigation
-
-- About Project
-  - _Description_
-  - _Developed With_
-- How to use this Project
-  - _Description_
-  - _Developed With_
-- Contact
-  - _Mail_
-  - _GitHub_
-  - _LinkedIn_
-- Used Tools
-  - _Fonts_
-  - _Design_
-  - _Icons_
-  - _Colors_
-
 ---
 
 ### About Project
 
-lorem ........
+_Youtube page layout was created in order to practice the concept of grid and flex box concepts_
 
 ### How to use this Project
 
-lorem ........
+_This project can be used to see how grid and flex box concepts can be used to design the layout of a page with more ease_.
 
 ##### Developed With
 
 - [x] _HTML5_
 - [ ] _CSS3_
-- [x] _SASS_
-- [x] _SCSS_
-- [x] _JavaScript_
-- [ ] _React_
-- [ ] _Bootstrap_
-- [x] _npm_
-- [ ] _..._
 
 ---
 
 ### Contact
 
-Mail: <you@mail.com><br>
-GitHub: [yourGHName](https://github.com/)<br>
-LinkedIn: [your linkedIn](#)
+Mail: <abadkaka@yahoo.com><br>
+GitHub: [ahmadshahdarwesh](https://github.com/)<br>
 
 ---
 
 ### Used Tools
 
-- [icons](https://)
-- [Canva](https://www.canva.com/)
-- [npm](https://www.npmjs.com/)
+- [icons](https://www.fontawesome.com)
 - [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [ColorZilla](https://www.colorzilla.com/chrome/)
 
 ---
 
