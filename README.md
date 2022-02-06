@@ -2,7 +2,8 @@
 
 ---
 
-![Screenshot from Project](./images/screen1.png) (./images/screen2.png)
+![Screenshot from Project](./images/screen1.png)
+![Screenshot from Project](./images/screen2.png)
 
 ---
 
